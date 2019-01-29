@@ -1,0 +1,92 @@
+[{
+        "id": "1",
+        "title": "Бісер Рожевий",
+        "image": "biser-p.jpg",
+        "description": "50 грамів",
+        "price": 30
+    },
+    {
+        "id": "2",
+        "title": "Бісер блакитний Чехія",
+        "image": "biser-b.jpg",
+        "description": "50 грамів",
+        "price": 25
+    },
+    {
+        "id": "3",
+        "title": "Бісер бурштин Польша",
+        "image": "biser-o.jpg",
+        "description": "50 грамів",
+        "price": 35
+    },
+    {
+        "id": "4",
+        "title": "Вишиванка",
+        "image": "gallery1.jpg",
+        "description": "",
+        "price": 35
+    },
+    {
+        "id": "5",
+        "title": "Вишиванка",
+        "image": "gallery2.jpg",
+        "description": "",
+        "price": 35
+    },
+    {
+        "id": "6",
+        "title": "Вишиванка",
+        "image": "gallery3.jpg",
+        "description": "",
+        "price": 35
+    },
+    {
+        "id": "7",
+        "title": "Вишиванка",
+        "image": "gallery4.jpg",
+        "description": "",
+        "price": 35
+    },
+     {
+        "id": "8",
+        "title": "Вишиванка",
+        "image": "gallery5.jpg",
+        "description": "",
+        "price": 35
+    },
+       {
+        "id": "9",
+        "title": "Вишиванка",
+        "image": "gallery6.jpg",
+        "description": "",
+        "price": 35
+    },
+       {
+        "id": "9",
+        "title": "Вишиванка",
+        "image": "gallery6.jpg",
+        "description": "",
+        "price": 35
+    },
+       {
+        "id": "10",
+        "title": "Вишиванка",
+        "image": "gallery7.jpg",
+        "description": "",
+        "price": 35
+    },
+       {
+        "id": "11",
+        "title": "Вишиванка",
+        "image": "gallery8.jpg",
+        "description": "",
+        "price": 35
+    },
+       {
+        "id": "12",
+        "title": "Вишиванка",
+        "image": "gallery9.jpg",
+        "description": "",
+        "price": 35
+    }
+]
