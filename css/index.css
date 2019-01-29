@@ -1,0 +1,32 @@
+body {
+    background-color: grey;
+    margin: auto;
+    padding: 0 5px;
+}
+
+.pagination {
+    text-align: center;
+    justify-content: center;
+}
+
+.card {
+    height: 100%;
+}
+
+.alert {
+    position: fixed;
+    top: 50px;
+    width: 50%;
+    left: 25%;
+    z-index: 1051;
+}
+
+.btn {
+    padding: 0.75rem 0.7rem;
+}
+
+.back-to-top {
+    text-align: center;
+
+}
+
