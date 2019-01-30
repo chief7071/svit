@@ -27,7 +27,7 @@ class ProductList {
                         data-target="#productInfoModal" data-id="${product.id}">Info
                       </button>
                       <button class="btn btn-primary buy" data-id="${product.id}">
-                        $${product.price} - Buy
+                        $${product.price} - Купити
                       </button>
                     </div>
                   </div>
