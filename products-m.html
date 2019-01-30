@@ -352,28 +352,10 @@
         </div>
 
         <div class="modal-body">
-          <h1>Incredible Orchids Shop Adress</h1>
+          <h1>Наш магазин у Львові</h1>
         </div>
         <div>
-          <script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script>
-          <div style='overflow:hidden;height:525px;width:795px;'>
-            <div id='gmap_canvas' style='height:525px;width:795px;'></div>
-            <div><small><a href="https://embedgooglemaps.com/de/">https://embedgooglemaps.com/de/</a></small>
-              <div>
-                <div>
-                  <script>
-                    function init_map() {
-                      var myOptions = { zoom: 11, center: new google.maps.LatLng(49.839683, 24.029717000000005), mapTypeId: google.maps.MapTypeId.ROADMAP };
-                      map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);
-                      marker = new google.maps.Marker({ map: map, position: new google.maps.LatLng(49.839683, 24.029717000000005) });
-                      infowindow = new google.maps.InfoWindow({ content: '<strong>Incedible-shop</strong><br>Lviv<br>' });
-                      google.maps.event.addListener(marker, 'click', function() { infowindow.open(map, marker); });
-                      infowindow.open(map, marker);
-                    }
-                    google.maps.event.addDomListener(window, 'load', init_map);
-                  </script>
-                </div>
-              </div>
+         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d475.8238625437153!2d24.044253545056797!3d49.86642747102181!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473adcfc5cd8a4db%3A0xa16f60df5593dcd3!2z0LLRg9C70LjRhtGPINCR0LXRgNC10YHRgtGP0L3QsCwg0JvRjNCy0ZbQsiwg0JvRjNCy0ZbQstGB0YzQutCwINC-0LHQu9Cw0YHRgtGMLCA3OTAwMA!5e1!3m2!1suk!2sua!4v1548885947122" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
               </div>
